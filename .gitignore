@@ -1,0 +1,12 @@
+__pycache__/
+refs/
+refs_itensor/
+Representation-learning-of-quantum-data-with-probabilistic-VAE-main/
+results/
+results_VAE/
+.ipynb_checkpoints/
+.~lock.slide.odp#
+2025_Schoulepnikoff_highlight.pdf
+mps/
+
+*.pkl
